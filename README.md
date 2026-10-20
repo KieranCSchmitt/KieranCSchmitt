@@ -14,6 +14,10 @@ I work with Python, TypeScript, JavaScript, and React. I'm interested in softwar
 
 ### Public work
 
-I'm building a collection of focused projects with runnable examples, clear documentation, and explanations of the decisions behind the code.
+**[PocketCraft 512](https://github.com/KieranCSchmitt/PocketCraft512)**
+
+I built a small, editable voxel world in a 512-byte x86 boot sector. World generation, movement, block editing, and rendering all fit in that limit. The browser demo runs the same binary.
+
+[Play it](https://kierancschmitt.github.io/PocketCraft512/) · [Source and build instructions](https://github.com/KieranCSchmitt/PocketCraft512)
 
 [Find me on X](https://twitter.com/SchmittKieran)
